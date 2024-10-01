@@ -1,0 +1,17 @@
+[{
+    "iata": "BRU",
+    "icao": "EBBR",
+    "name": "Brussels Airport",
+    "city": "Brussels",
+    "lat": "50.901379",
+    "lon": "4.484444",
+    "country": "BELGIUM"
+}, {
+    "iata": "OST",
+    "icao": "EBOS",
+    "name": "Ostend Bruges International Airport",
+    "city": "Ostend",
+    "lat": "51.198879",
+    "lon": "2.862222",
+    "country": "BELGIUM"
+}]
