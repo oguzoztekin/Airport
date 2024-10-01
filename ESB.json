@@ -1,0 +1,625 @@
+[{
+    "iata": "KBL",
+    "icao": "OAKB",
+    "name": "Kabul International Airport",
+    "city": "Kabul",
+    "lat": "34.565842",
+    "lon": "69.212410",
+    "country": "AFGHANISTAN"
+}, {
+    "iata": "TIA",
+    "icao": "LATI",
+    "name": "Tirana International Airport",
+    "city": "Tirana",
+    "lat": "41.414742",
+    "lon": "19.720560",
+    "country": "ALBANIA"
+}, {
+    "iata": "VIE",
+    "icao": "LOWW",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "lat": "48.110271",
+    "lon": "16.569719",
+    "country": "AUSTRIA"
+}, {
+    "iata": "GYD",
+    "icao": "UBBB",
+    "name": "Baku Heydar Aliyev International Airport",
+    "city": "Baku",
+    "lat": "40.467499",
+    "lon": "50.046661",
+    "country": "AZERBAIJAN"
+}, {
+    "iata": "BRU",
+    "icao": "EBBR",
+    "name": "Brussels Airport",
+    "city": "Brussels",
+    "lat": "50.901379",
+    "lon": "4.484444",
+    "country": "BELGIUM"
+}, {
+    "iata": "BSL",
+    "icao": "LFSB",
+    "name": "Basel Mulhouse-Freiburg EuroAirport",
+    "city": "Basel",
+    "lat": "47.598900",
+    "lon": "7.528300",
+    "country": "FRANCE"
+}, {
+    "iata": "CDG",
+    "icao": "LFPG",
+    "name": "Paris Charles de Gaulle Airport",
+    "city": "Paris",
+    "lat": "49.012516",
+    "lon": "2.555752",
+    "country": "FRANCE"
+}, {
+    "iata": "ORY",
+    "icao": "LFPO",
+    "name": "Paris Orly Airport",
+    "city": "Paris",
+    "lat": "48.723331",
+    "lon": "2.379444",
+    "country": "FRANCE"
+}, {
+    "iata": "TBS",
+    "icao": "UGTB",
+    "name": "Tbilisi International Airport",
+    "city": "Tbilisi",
+    "lat": "41.669159",
+    "lon": "44.954720",
+    "country": "GEORGIA"
+}, {
+    "iata": "BER",
+    "icao": "EDDB",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "lat": "52.362877",
+    "lon": "13.503722",
+    "country": "GERMANY"
+}, {
+    "iata": "CGN",
+    "icao": "EDDK",
+    "name": "Cologne Bonn Airport",
+    "city": "Cologne",
+    "lat": "50.866001",
+    "lon": "7.143000",
+    "country": "GERMANY"
+}, {
+    "iata": "DUS",
+    "icao": "EDDL",
+    "name": "Dusseldorf International Airport",
+    "city": "Dusseldorf",
+    "lat": "51.289452",
+    "lon": "6.766775",
+    "country": "GERMANY"
+}, {
+    "iata": "FRA",
+    "icao": "EDDF",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "lat": "50.037796",
+    "lon": "8.555783",
+    "country": "GERMANY"
+}, {
+    "iata": "HAM",
+    "icao": "EDDH",
+    "name": "Hamburg Airport",
+    "city": "Hamburg",
+    "lat": "53.630379",
+    "lon": "9.988228",
+    "country": "GERMANY"
+}, {
+    "iata": "HAJ",
+    "icao": "EDDV",
+    "name": "Hannover Langenhagen Airport",
+    "city": "Hannover",
+    "lat": "52.461964",
+    "lon": "9.687095",
+    "country": "GERMANY"
+}, {
+    "iata": "MUC",
+    "icao": "EDDM",
+    "name": "Munich Airport",
+    "city": "Munich",
+    "lat": "48.353779",
+    "lon": "11.786080",
+    "country": "GERMANY"
+}, {
+    "iata": "STR",
+    "icao": "EDDS",
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart",
+    "lat": "48.689869",
+    "lon": "9.221964",
+    "country": "GERMANY"
+}, {
+    "iata": "IKA",
+    "icao": "OIIE",
+    "name": "Tehran Imam Khomeini International Airport",
+    "city": "Tehran",
+    "lat": "35.416111",
+    "lon": "51.152222",
+    "country": "IRAN"
+}, {
+    "iata": "BGW",
+    "icao": "ORBI",
+    "name": "Baghdad International Airport",
+    "city": "Baghdad",
+    "lat": "33.262501",
+    "lon": "44.234444",
+    "country": "IRAQ"
+}, {
+    "iata": "EBL",
+    "icao": "ORER",
+    "name": "Erbil International Airport",
+    "city": "Erbil",
+    "lat": "36.240482",
+    "lon": "43.946671",
+    "country": "IRAQ"
+}, {
+    "iata": "KIK",
+    "icao": "ORKK",
+    "name": "Kirkuk International Airport",
+    "city": "Kirkuk",
+    "lat": "35.469292",
+    "lon": "44.347012",
+    "country": "IRAQ"
+}, {
+    "iata": "DUB",
+    "icao": "EIDW",
+    "name": "Dublin Airport",
+    "city": "Dublin",
+    "lat": "53.421379",
+    "lon": "-6.270000",
+    "country": "IRELAND"
+}, {
+    "iata": "CIA",
+    "icao": "LIRA",
+    "name": "Rome Ciampino Airport",
+    "city": "Rome",
+    "lat": "41.799358",
+    "lon": "12.594930",
+    "country": "ITALY"
+}, {
+    "iata": "AMM",
+    "icao": "OJAI",
+    "name": "Amman Queen Alia International Airport",
+    "city": "Amman",
+    "lat": "31.722549",
+    "lon": "35.993210",
+    "country": "JORDAN"
+}, {
+    "iata": "ALA",
+    "icao": "UAAA",
+    "name": "Almaty International Airport",
+    "city": "Almaty",
+    "lat": "43.354755",
+    "lon": "77.044792",
+    "country": "KAZAKHSTAN"
+}, {
+    "iata": "NQZ",
+    "icao": "UACC",
+    "name": "Astana Nursultan Nazarbayev International Airport",
+    "city": "Astana",
+    "lat": "51.022221",
+    "lon": "71.466942",
+    "country": "KAZAKHSTAN"
+}, {
+    "iata": "FRU",
+    "icao": "UCFM",
+    "name": "Bishkek Manas International Airport",
+    "city": "Bishkek",
+    "lat": "43.061298",
+    "lon": "74.477547",
+    "country": "KYRGYZSTAN"
+}, {
+    "iata": "TGD",
+    "icao": "LYPG",
+    "name": "Podgorica Airport",
+    "city": "Podgorica",
+    "lat": "42.359390",
+    "lon": "19.251890",
+    "country": "MONTENEGRO"
+}, {
+    "iata": "AMS",
+    "icao": "EHAM",
+    "name": "Amsterdam Schiphol Airport",
+    "city": "Amsterdam",
+    "lat": "52.308609",
+    "lon": "4.763889",
+    "country": "NETHERLANDS"
+}, {
+    "iata": "KRK",
+    "icao": "EPKK",
+    "name": "Krakow John Paul II International Airport",
+    "city": "Krakow",
+    "lat": "50.077728",
+    "lon": "19.784830",
+    "country": "POLAND"
+}, {
+    "iata": "WAW",
+    "icao": "EPWA",
+    "name": "Warsaw Chopin Airport",
+    "city": "Warsaw",
+    "lat": "52.165749",
+    "lon": "20.967119",
+    "country": "POLAND"
+}, {
+    "iata": "LIS",
+    "icao": "LPPT",
+    "name": "Lisbon Humberto Delgado Airport",
+    "city": "Lisbon",
+    "lat": "38.781311",
+    "lon": "-9.135910",
+    "country": "PORTUGAL"
+}, {
+    "iata": "DOH",
+    "icao": "OTHH",
+    "name": "Doha Hamad International Airport",
+    "city": "Doha",
+    "lat": "25.272524",
+    "lon": "51.608604",
+    "country": "QATAR"
+}, {
+    "iata": "VKO",
+    "icao": "UUWW",
+    "name": "Moscow Vnukovo International Airport",
+    "city": "Moscow",
+    "lat": "55.591530",
+    "lon": "37.261478",
+    "country": "RUSSIA"
+}, {
+    "iata": "BEG",
+    "icao": "LYBE",
+    "name": "Belgrade Nikola Tesla Airport",
+    "city": "Belgrade",
+    "lat": "44.818439",
+    "lon": "20.309130",
+    "country": "SERBIA"
+}, {
+    "iata": "ARN",
+    "icao": "ESSA",
+    "name": "Stockholm Arlanda Airport",
+    "city": "Stockholm",
+    "lat": "59.653545",
+    "lon": "17.939816",
+    "country": "SWEDEN"
+}, {
+    "iata": "GVA",
+    "icao": "LSGG",
+    "name": "Geneva International Airport",
+    "city": "Geneva",
+    "lat": "46.238060",
+    "lon": "6.108950",
+    "country": "SWITZERLAND"
+}, {
+    "iata": "ZRH",
+    "icao": "LSZH",
+    "name": "Zurich Airport",
+    "city": "Zurich",
+    "lat": "47.464722",
+    "lon": "8.549167",
+    "country": "SWITZERLAND"
+}, {
+    "iata": "ADF",
+    "icao": "LTCP",
+    "name": "Adiyaman Airport",
+    "city": "Adiyaman",
+    "lat": "37.731361",
+    "lon": "38.468929",
+    "country": "TURKEY"
+}, {
+    "iata": "AJI",
+    "icao": "LTCO",
+    "name": "Agri Airport",
+    "city": "Agri",
+    "lat": "39.654560",
+    "lon": "43.027149",
+    "country": "TURKEY"
+}, {
+    "iata": "HTY",
+    "icao": "LTDA",
+    "name": "Antakya Hatay Airport",
+    "city": "Antakya",
+    "lat": "36.362778",
+    "lon": "36.282223",
+    "country": "TURKEY"
+}, {
+    "iata": "AYT",
+    "icao": "LTAI",
+    "name": "Antalya Airport",
+    "city": "Antalya",
+    "lat": "36.898731",
+    "lon": "30.800461",
+    "country": "TURKEY"
+}, {
+    "iata": "BAL",
+    "icao": "LTCJ",
+    "name": "Batman Airport",
+    "city": "Batman",
+    "lat": "37.928959",
+    "lon": "41.116581",
+    "country": "TURKEY"
+}, {
+    "iata": "BGG",
+    "icao": "LTCU",
+    "name": "Bingol Airport",
+    "city": "Bingol",
+    "lat": "38.861111",
+    "lon": "40.592499",
+    "country": "TURKEY"
+}, {
+    "iata": "BJV",
+    "icao": "LTFE",
+    "name": "Bodrum Milas Airport",
+    "city": "Bodrum",
+    "lat": "37.250610",
+    "lon": "27.664310",
+    "country": "TURKEY"
+}, {
+    "iata": "CKZ",
+    "icao": "LTBH",
+    "name": "Canakkale Airport",
+    "city": "Canakkale",
+    "lat": "40.137718",
+    "lon": "26.426769",
+    "country": "TURKEY"
+}, {
+    "iata": "DLM",
+    "icao": "LTBS",
+    "name": "Dalaman Airport",
+    "city": "Dalaman",
+    "lat": "36.713051",
+    "lon": "28.792500",
+    "country": "TURKEY"
+}, {
+    "iata": "DIY",
+    "icao": "LTCC",
+    "name": "Diyarbakir Airport",
+    "city": "Diyarbakir",
+    "lat": "37.893890",
+    "lon": "40.201012",
+    "country": "TURKEY"
+}, {
+    "iata": "EDO",
+    "icao": "LTFD",
+    "name": "Edremit Balikesir Koca Seyit Airport",
+    "city": "Edremit",
+    "lat": "39.549999",
+    "lon": "27.010000",
+    "country": "TURKEY"
+}, {
+    "iata": "EZS",
+    "icao": "LTCA",
+    "name": "Elazig Airport",
+    "city": "Elazig",
+    "lat": "38.606918",
+    "lon": "39.291409",
+    "country": "TURKEY"
+}, {
+    "iata": "ECN",
+    "icao": "LCEN",
+    "name": "Ercan International Airport",
+    "city": "Ercan",
+    "lat": "35.155071",
+    "lon": "33.502117",
+    "country": "TURKEY"
+}, {
+    "iata": "ERC",
+    "icao": "LTCD",
+    "name": "Erzincan Airport",
+    "city": "Erzincan",
+    "lat": "39.710201",
+    "lon": "39.527000",
+    "country": "TURKEY"
+}, {
+    "iata": "ERZ",
+    "icao": "LTCE",
+    "name": "Erzurum Airport",
+    "city": "Erzurum",
+    "lat": "39.956501",
+    "lon": "41.170158",
+    "country": "TURKEY"
+}, {
+    "iata": "GZT",
+    "icao": "LTAJ",
+    "name": "Gaziantep Oguzeli Airport",
+    "city": "Gaziantep",
+    "lat": "36.947182",
+    "lon": "37.478680",
+    "country": "TURKEY"
+}, {
+    "iata": "GZP",
+    "icao": "LTFG",
+    "name": "Gazipasa Airport",
+    "city": "Gazipasa",
+    "lat": "36.299000",
+    "lon": "32.299999",
+    "country": "TURKEY"
+}, {
+    "iata": "IGD",
+    "icao": "LTCT",
+    "name": "Igdir Airport",
+    "city": "Igdir",
+    "lat": "39.983055",
+    "lon": "43.866390",
+    "country": "TURKEY"
+}, {
+    "iata": "IST",
+    "icao": "LTFM",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "lat": "41.267052",
+    "lon": "28.729757",
+    "country": "TURKEY"
+}, {
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "name": "Istanbul Sabiha Gokcen International Airport",
+    "city": "Istanbul",
+    "lat": "40.898548",
+    "lon": "29.309210",
+    "country": "TURKEY"
+}, {
+    "iata": "ADB",
+    "icao": "LTBJ",
+    "name": "Izmir Adnan Menderes International Airport",
+    "city": "Izmir",
+    "lat": "38.292389",
+    "lon": "27.156950",
+    "country": "TURKEY"
+}, {
+    "iata": "KCM",
+    "icao": "LTCN",
+    "name": "Kahramanmaras Airport",
+    "city": "Kahramanmaras",
+    "lat": "37.534401",
+    "lon": "36.950500",
+    "country": "TURKEY"
+}, {
+    "iata": "KSY",
+    "icao": "LTCF",
+    "name": "Kars Harakani Airport",
+    "city": "Kars",
+    "lat": "40.562222",
+    "lon": "43.115002",
+    "country": "TURKEY"
+}, {
+    "iata": "MLX",
+    "icao": "LTAT",
+    "name": "Malatya Erhac Airport",
+    "city": "Malatya",
+    "lat": "38.435341",
+    "lon": "38.091000",
+    "country": "TURKEY"
+}, {
+    "iata": "MQM",
+    "icao": "LTCR",
+    "name": "Mardin Airport",
+    "city": "Mardin",
+    "lat": "37.223331",
+    "lon": "40.631660",
+    "country": "TURKEY"
+}, {
+    "iata": "COV",
+    "icao": "LTDB",
+    "name": "Mersin Cukurova International Airport",
+    "city": "Mersin",
+    "lat": "36.892776",
+    "lon": "35.072136",
+    "country": "TURKEY"
+}, {
+    "iata": "MSR",
+    "icao": "LTCK",
+    "name": "Mus Airport",
+    "city": "Mus",
+    "lat": "38.747761",
+    "lon": "41.661228",
+    "country": "TURKEY"
+}, {
+    "iata": "NAV",
+    "icao": "LTAZ",
+    "name": "Nevsehir Kapadokya Airport",
+    "city": "Nevsehir",
+    "lat": "38.772236",
+    "lon": "34.533512",
+    "country": "TURKEY"
+}, {
+    "iata": "RZV",
+    "icao": "LTFO",
+    "name": "Rize Artvin Airport",
+    "city": "Rize",
+    "lat": "41.180119",
+    "lon": "40.849251",
+    "country": "TURKEY"
+}, {
+    "iata": "SZF",
+    "icao": "LTFH",
+    "name": "Samsun Carsamba Airport",
+    "city": "Samsun",
+    "lat": "41.254478",
+    "lon": "36.567101",
+    "country": "TURKEY"
+}, {
+    "iata": "GNY",
+    "icao": "LTCS",
+    "name": "Sanliurfa GAP Airport",
+    "city": "Sanliurfa",
+    "lat": "37.450001",
+    "lon": "38.900002",
+    "country": "TURKEY"
+}, {
+    "iata": "SXZ",
+    "icao": "LTCL",
+    "name": "Siirt Airport",
+    "city": "Siirt",
+    "lat": "37.978901",
+    "lon": "41.840401",
+    "country": "TURKEY"
+}, {
+    "iata": "NKT",
+    "icao": "LTCV",
+    "name": "Sirnak Airport",
+    "city": "Sirnak",
+    "lat": "37.363888",
+    "lon": "42.060001",
+    "country": "TURKEY"
+}, {
+    "iata": "TEQ",
+    "icao": "LTBU",
+    "name": "Tekirdag Corlu Airport",
+    "city": "Tekirdag",
+    "lat": "41.138332",
+    "lon": "27.919167",
+    "country": "TURKEY"
+}, {
+    "iata": "TZX",
+    "icao": "LTCG",
+    "name": "Trabzon Airport",
+    "city": "Trabzon",
+    "lat": "40.995098",
+    "lon": "39.789719",
+    "country": "TURKEY"
+}, {
+    "iata": "VAN",
+    "icao": "LTCI",
+    "name": "Van Airport",
+    "city": "Van",
+    "lat": "38.468208",
+    "lon": "43.332298",
+    "country": "TURKEY"
+}, {
+    "iata": "YKO",
+    "icao": "LTCW",
+    "name": "Yuksekova Hakkari Airport",
+    "city": "Yuksekova",
+    "lat": "37.545242",
+    "lon": "44.255165",
+    "country": "TURKEY"
+}, {
+    "iata": "DXB",
+    "icao": "OMDB",
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "lat": "25.252769",
+    "lon": "55.364441",
+    "country": "UNITED ARAB EMIRATES"
+}, {
+    "iata": "STN",
+    "icao": "EGSS",
+    "name": "London Stansted Airport",
+    "city": "London",
+    "lat": "51.884998",
+    "lon": "0.235000",
+    "country": "UNITED KINGDOM"
+}, {
+    "iata": "TAS",
+    "icao": "UTTT",
+    "name": "Tashkent International Airport",
+    "city": "Tashkent",
+    "lat": "41.257858",
+    "lon": "69.281181",
+    "country": "UZBEKISTAN"
+}]

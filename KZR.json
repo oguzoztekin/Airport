@@ -1,0 +1,17 @@
+[{
+    "iata": "DUS",
+    "icao": "EDDL",
+    "name": "Dusseldorf International Airport",
+    "city": "Dusseldorf",
+    "lat": "51.289452",
+    "lon": "6.766775",
+    "country": "GERMANY"
+}, {
+    "iata": "IST",
+    "icao": "LTFM",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "lat": "41.267052",
+    "lon": "28.729757",
+    "country": "TURKEY"
+}]
