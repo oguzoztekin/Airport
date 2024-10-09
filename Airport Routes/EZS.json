@@ -1,0 +1,65 @@
+[{
+    "iata": "CGN",
+    "icao": "EDDK",
+    "name": "Cologne Bonn Airport",
+    "city": "Cologne",
+    "lat": "50.866001",
+    "lon": "7.143000",
+    "country": "GERMANY"
+}, {
+    "iata": "DUS",
+    "icao": "EDDL",
+    "name": "Dusseldorf International Airport",
+    "city": "Dusseldorf",
+    "lat": "51.289452",
+    "lon": "6.766775",
+    "country": "GERMANY"
+}, {
+    "iata": "FRA",
+    "icao": "EDDF",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "lat": "50.037796",
+    "lon": "8.555783",
+    "country": "GERMANY"
+}, {
+    "iata": "STR",
+    "icao": "EDDS",
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart",
+    "lat": "48.689869",
+    "lon": "9.221964",
+    "country": "GERMANY"
+}, {
+    "iata": "ESB",
+    "icao": "LTAC",
+    "name": "Ankara Esenboga International Airport",
+    "city": "Ankara",
+    "lat": "40.128078",
+    "lon": "32.995079",
+    "country": "TURKEY"
+}, {
+    "iata": "IST",
+    "icao": "LTFM",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "lat": "41.267052",
+    "lon": "28.729757",
+    "country": "TURKEY"
+}, {
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "name": "Istanbul Sabiha Gokcen International Airport",
+    "city": "Istanbul",
+    "lat": "40.898548",
+    "lon": "29.309210",
+    "country": "TURKEY"
+}, {
+    "iata": "ADB",
+    "icao": "LTBJ",
+    "name": "Izmir Adnan Menderes International Airport",
+    "city": "Izmir",
+    "lat": "38.292389",
+    "lon": "27.156950",
+    "country": "TURKEY"
+}]

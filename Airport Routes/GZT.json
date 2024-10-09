@@ -1,0 +1,129 @@
+[{
+    "iata": "BER",
+    "icao": "EDDB",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "lat": "52.362877",
+    "lon": "13.503722",
+    "country": "GERMANY"
+}, {
+    "iata": "CGN",
+    "icao": "EDDK",
+    "name": "Cologne Bonn Airport",
+    "city": "Cologne",
+    "lat": "50.866001",
+    "lon": "7.143000",
+    "country": "GERMANY"
+}, {
+    "iata": "DUS",
+    "icao": "EDDL",
+    "name": "Dusseldorf International Airport",
+    "city": "Dusseldorf",
+    "lat": "51.289452",
+    "lon": "6.766775",
+    "country": "GERMANY"
+}, {
+    "iata": "FRA",
+    "icao": "EDDF",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "lat": "50.037796",
+    "lon": "8.555783",
+    "country": "GERMANY"
+}, {
+    "iata": "HAJ",
+    "icao": "EDDV",
+    "name": "Hannover Langenhagen Airport",
+    "city": "Hannover",
+    "lat": "52.461964",
+    "lon": "9.687095",
+    "country": "GERMANY"
+}, {
+    "iata": "STR",
+    "icao": "EDDS",
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart",
+    "lat": "48.689869",
+    "lon": "9.221964",
+    "country": "GERMANY"
+}, {
+    "iata": "JED",
+    "icao": "OEJN",
+    "name": "Jeddah King Abdulaziz International Airport",
+    "city": "Jeddah",
+    "lat": "21.679560",
+    "lon": "39.156528",
+    "country": "SAUDI ARABIA"
+}, {
+    "iata": "ESB",
+    "icao": "LTAC",
+    "name": "Ankara Esenboga International Airport",
+    "city": "Ankara",
+    "lat": "40.128078",
+    "lon": "32.995079",
+    "country": "TURKEY"
+}, {
+    "iata": "AYT",
+    "icao": "LTAI",
+    "name": "Antalya Airport",
+    "city": "Antalya",
+    "lat": "36.898731",
+    "lon": "30.800461",
+    "country": "TURKEY"
+}, {
+    "iata": "CKZ",
+    "icao": "LTBH",
+    "name": "Canakkale Airport",
+    "city": "Canakkale",
+    "lat": "40.137718",
+    "lon": "26.426769",
+    "country": "TURKEY"
+}, {
+    "iata": "ECN",
+    "icao": "LCEN",
+    "name": "Ercan International Airport",
+    "city": "Ercan",
+    "lat": "35.155071",
+    "lon": "33.502117",
+    "country": "TURKEY"
+}, {
+    "iata": "IST",
+    "icao": "LTFM",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "lat": "41.267052",
+    "lon": "28.729757",
+    "country": "TURKEY"
+}, {
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "name": "Istanbul Sabiha Gokcen International Airport",
+    "city": "Istanbul",
+    "lat": "40.898548",
+    "lon": "29.309210",
+    "country": "TURKEY"
+}, {
+    "iata": "ADB",
+    "icao": "LTBJ",
+    "name": "Izmir Adnan Menderes International Airport",
+    "city": "Izmir",
+    "lat": "38.292389",
+    "lon": "27.156950",
+    "country": "TURKEY"
+}, {
+    "iata": "TZX",
+    "icao": "LTCG",
+    "name": "Trabzon Airport",
+    "city": "Trabzon",
+    "lat": "40.995098",
+    "lon": "39.789719",
+    "country": "TURKEY"
+}, {
+    "iata": "STN",
+    "icao": "EGSS",
+    "name": "London Stansted Airport",
+    "city": "London",
+    "lat": "51.884998",
+    "lon": "0.235000",
+    "country": "UNITED KINGDOM"
+}]

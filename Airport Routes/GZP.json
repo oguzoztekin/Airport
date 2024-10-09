@@ -1,0 +1,161 @@
+[{
+    "iata": "BRU",
+    "icao": "EBBR",
+    "name": "Brussels Airport",
+    "city": "Brussels",
+    "lat": "50.901379",
+    "lon": "4.484444",
+    "country": "BELGIUM"
+}, {
+    "iata": "AAL",
+    "icao": "EKYT",
+    "name": "Aalborg Airport",
+    "city": "Aalborg",
+    "lat": "57.095112",
+    "lon": "9.855172",
+    "country": "DENMARK"
+}, {
+    "iata": "BLL",
+    "icao": "EKBI",
+    "name": "Billund Airport",
+    "city": "Billund",
+    "lat": "55.740318",
+    "lon": "9.151778",
+    "country": "DENMARK"
+}, {
+    "iata": "CPH",
+    "icao": "EKCH",
+    "name": "Copenhagen Airport",
+    "city": "Copenhagen",
+    "lat": "55.616959",
+    "lon": "12.645637",
+    "country": "DENMARK"
+}, {
+    "iata": "HEL",
+    "icao": "EFHK",
+    "name": "Helsinki Vantaa Airport",
+    "city": "Helsinki",
+    "lat": "60.325657",
+    "lon": "24.968779",
+    "country": "FINLAND"
+}, {
+    "iata": "BER",
+    "icao": "EDDB",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "lat": "52.362877",
+    "lon": "13.503722",
+    "country": "GERMANY"
+}, {
+    "iata": "CGN",
+    "icao": "EDDK",
+    "name": "Cologne Bonn Airport",
+    "city": "Cologne",
+    "lat": "50.866001",
+    "lon": "7.143000",
+    "country": "GERMANY"
+}, {
+    "iata": "DUS",
+    "icao": "EDDL",
+    "name": "Dusseldorf International Airport",
+    "city": "Dusseldorf",
+    "lat": "51.289452",
+    "lon": "6.766775",
+    "country": "GERMANY"
+}, {
+    "iata": "LEJ",
+    "icao": "EDDP",
+    "name": "Leipzig Halle Airport",
+    "city": "Leipzig",
+    "lat": "51.432442",
+    "lon": "12.241630",
+    "country": "GERMANY"
+}, {
+    "iata": "SMI",
+    "icao": "LGSM",
+    "name": "Samos International Airport",
+    "city": "Samos",
+    "lat": "37.689991",
+    "lon": "26.911659",
+    "country": "GREECE"
+}, {
+    "iata": "SKG",
+    "icao": "LGTS",
+    "name": "Thessaloniki International Airport",
+    "city": "Thessaloniki",
+    "lat": "40.519718",
+    "lon": "22.970949",
+    "country": "GREECE"
+}, {
+    "iata": "VNO",
+    "icao": "EYVI",
+    "name": "Vilnius International Airport",
+    "city": "Vilnius",
+    "lat": "54.637070",
+    "lon": "25.287800",
+    "country": "LITHUANIA"
+}, {
+    "iata": "AMS",
+    "icao": "EHAM",
+    "name": "Amsterdam Schiphol Airport",
+    "city": "Amsterdam",
+    "lat": "52.308609",
+    "lon": "4.763889",
+    "country": "NETHERLANDS"
+}, {
+    "iata": "GRQ",
+    "icao": "EHGG",
+    "name": "Groningen Airport Eelde",
+    "city": "Groningen",
+    "lat": "53.119720",
+    "lon": "6.579444",
+    "country": "NETHERLANDS"
+}, {
+    "iata": "OSL",
+    "icao": "ENGM",
+    "name": "Oslo Gardermoen Airport",
+    "city": "Oslo",
+    "lat": "60.193909",
+    "lon": "11.100360",
+    "country": "NORWAY"
+}, {
+    "iata": "VKO",
+    "icao": "UUWW",
+    "name": "Moscow Vnukovo International Airport",
+    "city": "Moscow",
+    "lat": "55.591530",
+    "lon": "37.261478",
+    "country": "RUSSIA"
+}, {
+    "iata": "ARN",
+    "icao": "ESSA",
+    "name": "Stockholm Arlanda Airport",
+    "city": "Stockholm",
+    "lat": "59.653545",
+    "lon": "17.939816",
+    "country": "SWEDEN"
+}, {
+    "iata": "ESB",
+    "icao": "LTAC",
+    "name": "Ankara Esenboga International Airport",
+    "city": "Ankara",
+    "lat": "40.128078",
+    "lon": "32.995079",
+    "country": "TURKEY"
+}, {
+    "iata": "IST",
+    "icao": "LTFM",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "lat": "41.267052",
+    "lon": "28.729757",
+    "country": "TURKEY"
+}, {
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "name": "Istanbul Sabiha Gokcen International Airport",
+    "city": "Istanbul",
+    "lat": "40.898548",
+    "lon": "29.309210",
+    "country": "TURKEY"
+}]
